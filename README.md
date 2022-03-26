@@ -26,8 +26,8 @@ My hobbies are Play videogames 🎮, Watch Anime 🍥, Listen Music 🎶 & Inves
 </p>
 
 <p align="center">
- <a href="https://www.facebook.com/matyo91"><img src="https://img.icons8.com/color/96/000000/facebook.png"  width="50" alt="facebook"/></a>
- <a href="https://www.instagram.com/matyo91"><img src="https://img.icons8.com/color/96/000000/instagram-new.png"  width="50" alt="instagram"/></a>
- <a href="https://discord.gg/tMDCF8RyvE"><img src="https://img.icons8.com/color/96/000000/discord-logo.png"  width="50" alt="discord"/></a>
+ <a href="https://www.facebook.com/zahori.valeria/"><img src="https://img.icons8.com/color/96/000000/facebook.png"  width="50" alt="facebook"/></a>
+ <a href="https://instagram.com/fucking_diees"><img src="https://img.icons8.com/color/96/000000/instagram-new.png"  width="50" alt="instagram"/></a>
+ <a href="https://discord.com/users/aZaho.vale#0541"><img src="https://img.icons8.com/color/96/000000/discord-logo.png"  width="50" alt="discord"/></a>
 </p>
 
